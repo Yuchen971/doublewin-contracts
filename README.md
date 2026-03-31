@@ -6,7 +6,7 @@ Smart contracts for [DoubleWin](https://doublewin.me) — an AI-powered, provabl
 
 | Contract | Address | Description |
 |----------|---------|-------------|
-| VRFConsumer | `0x1d336B379650782543B39624a3db0a6eb5404376` | Chainlink VRF V2+ randomness consumer |
+| VRFConsumer | `0x36dE49050532baD5d47E971a58b9559E2004B4d9` | Chainlink VRF V2+ randomness consumer |
 
 ## Overview
 
@@ -78,7 +78,7 @@ npx hardhat run scripts/deploy.ts --network bscMainnet
 
 - **Website:** [doublewin.me](https://doublewin.me)
 - **Provably Fair Verification:** [doublewin.me/provably-fair](https://doublewin.me/provably-fair)
-- **VRFConsumer on BscScan:** [0x1d336B379650782543B39624a3db0a6eb5404376](https://bscscan.com/address/0x1d336B379650782543B39624a3db0a6eb5404376)
+- **VRFConsumer on BscScan:** [0x36dE49050532baD5d47E971a58b9559E2004B4d9](https://bscscan.com/address/0x36dE49050532baD5d47E971a58b9559E2004B4d9)
 
 ## License
 
